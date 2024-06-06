@@ -4,7 +4,7 @@ def suma(*numeros):
     return sum(numeros)
 
 resultado = suma(1,2,3,4,5)
-print(f'Suma de numeros en lista: {resultado}')
+print(f'Suma de numeros en tupla: {resultado}')
 
 """^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^"""
 # Suma de numeros en lista
