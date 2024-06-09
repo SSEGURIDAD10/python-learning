@@ -1,2 +1,2 @@
-Hola, estoy en un .txt
-Ingeniero, ¿Qué ingeniero?
+Hola en una linea
+Segunda linea
