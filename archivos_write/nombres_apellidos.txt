@@ -1,0 +1,11 @@
+Los datos son:
+
+Nombre: Gerardo
+Apellido: Villagran
+-----------------
+Nombre: Diana
+Apellido: Mendez
+-----------------
+Nombre: Diego
+Apellido: Villagran
+-----------------
