@@ -1,4 +1,4 @@
-# Suma de numeros en tupla
+# Suma de numeros en tupla +
 
 def suma(*numeros):
     return sum(numeros)
